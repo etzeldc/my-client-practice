@@ -1,0 +1,49 @@
+.jumbotron {
+    font: monospace;
+    color: yellow;
+    background-color: red;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.navbar {
+    background-color: orange;
+}
+
+.btn {
+    background-color: red;
+    color: yellow;
+    border-color: yellow;
+}
+
+.prodfeat {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    padding: 25px;
+}
+
+.buynow {
+    height: 200px;
+    width: 350px;
+    font-size: 50px;
+}
+
+button:hover {
+    background-color: yellow;
+    color: red;
+    border-color: red;
+}
+
+footer {
+    background-color: orange;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    height: 125px;
+    width: 125px;
+}

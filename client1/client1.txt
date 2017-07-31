@@ -1,0 +1,18 @@
+My Client Wants
+
+Hey,
+
+I hope you're doing well.
+Just heard from the client.
+They're willing to pay us $50/hr to build a site with the following requirements.
+
+A jumbotron header with a tasteful red background.
+A 2 column layout with some of their product features.
+A full-width navbar at the top of the screen which is responsive.
+Lots of buttons
+One huge 'buy now' button at the bottom. It should do something fancy when they hover over it.
+A footer with lots of buttons and images.
+Is that cool?
+Let me know ASAP.
+Thanks!
+
